@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrmic1987
+- 👀 I’m interested in security
+- 🌱 I’m currently learning actions
+- 💞️ I’m looking to collaborate on openwrt
+- 📫 How to reach me none
